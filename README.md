@@ -4,8 +4,7 @@
 
 <h2>System Administration Projects</h2>
 
-- <b>Building an Active Directory Domain using Virtual Machines</b>
-  - [Here's where I'd put a link to the project]
+- <a href="">Using Oracle VirtualBox to Deploy a Virtual Machine</a><br/>
 
 <h2>Hardware Projects</h2>
 
